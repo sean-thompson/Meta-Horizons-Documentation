@@ -2,10 +2,6 @@
 
 This repository contains documentation for Meta Horizons.
 
-## Getting Started
-
-This repository is set up to sync with the local documentation folder.
-
 ## Contents
 
 ### API Documentation
