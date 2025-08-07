@@ -1,3 +1,7 @@
+# **DEPRECATED**
+
+Use [https://github.com/MHCPCreators/horizonCreatorManual/](https://github.com/MHCPCreators/horizonCreatorManual/)
+
 # Meta Horizons Documentation
 
 This repository contains documentation for Meta Horizons.
